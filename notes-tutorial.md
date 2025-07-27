@@ -24,10 +24,10 @@
 1. 打开github，创建一个新的repository。如果打算私有，可以设置为Private
 ![picture 0](images/e94e0dba7229b95fea9131dd9866d637e2a20e51d6b55c6d424fd9127baeb979.png)  
 
-2. `git clone https://github.com/{ownerName}/{repoName}.git`
-3. 用vscode打开
-4. 开始编写内容
-5. 提交推送到Github（参考下方`提交到Github`章节）
+1. `git clone https://github.com/haooxia/notesTutorial.git`
+2. 用vscode打开
+3. 开始编写内容
+4. 提交推送到Github（参考下方`提交到Github`章节）
 
 ## 常用功能
 
@@ -107,8 +107,7 @@ vscode自带markdown预览功能，可以通过`Ctrl+K`松开再按`V`键唤醒�
 `**text**`用于加粗：**加粗**     
 `*text*`用于斜体：*斜体*  
 `~~text~~`用于删除：~~删除线~~
-`<mark>text</mark>`用于标记：<mark>标记</mark> (github支持)
-> `==text==`用于高亮：==高亮== (github不支持)
+`==text==`用于高亮：==高亮== (github不支持)
 
 **超链接**快捷创建方式：先复制URL -> 写描述文字 -> 选中描述文字按粘贴键即可形成: `[描述文字](URL)`
 
